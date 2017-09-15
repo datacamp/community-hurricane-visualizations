@@ -21,7 +21,7 @@ conda env create -f environment.yml
 This will create a new environment called hurricanevis. To activate the environment, execute
 
 ```
-source activate hurricanevis`
+source activate hurricanevis
 ```
 
 Then open the notebook `hurricanevis-code.ipynb`, generate the figures for yourself and play around with them.
