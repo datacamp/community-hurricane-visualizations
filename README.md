@@ -25,3 +25,7 @@ source activate hurricanevis
 ```
 
 Then open the notebook `hurricanevis-code.ipynb`, generate the figures for yourself and play around with them.
+
+
+### Code
+The code in this repository, is released under the [MIT license](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
