@@ -28,4 +28,4 @@ Then open the notebook `hurricanevis-code.ipynb`, generate the figures for yours
 
 
 ### Code
-The code in this repository, is released under the [MIT license](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
+The code in this repository is released under the [MIT license](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
